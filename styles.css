@@ -1,0 +1,63 @@
+/* Styles for index.html */
+.recipe {
+    height: 100vh;
+    background:linear-gradient(rgb(228, 198, 198),rgb(189, 206, 95));
+    font-family: cursive; 
+}
+
+.recipe h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.recipe ul li a {
+    color: blue;
+    font-size: 30px;
+}
+
+/* Styles for pasta.html*/
+.pasta {
+    height: 150vh;
+    background:linear-gradient(rgb(228, 198, 198),rgb(189, 206, 95));
+    font-family: cursive;   
+}
+
+.pasta h1 {
+    font-size: 50px;
+}
+
+.pasta h3 {
+    font-size: 40px;
+}
+
+.pasta p {
+    font-size: 35px;
+}
+
+.pasta ul li , ol li {
+    font-size: 35px;
+}
+
+/* Styles for noodles.html */
+
+.noodles {
+    height: 150vh;
+    background:linear-gradient(rgb(228, 198, 198),rgb(189, 206, 95));
+    font-family: cursive;   
+}
+
+.noodles h1 {
+    font-size: 50px;
+}
+
+.noodles h3 {
+    font-size: 40px;
+}
+
+.noodles p {
+    font-size: 35px;
+}
+
+.noodles ul li , ol li {
+    font-size: 35px;
+}
